@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="C:\Users\raymo\OneDrive\Documents\Visual Studio Code Projects\SensorTransmitv1\manifest.xml"/>
+<pcToLineNum>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1App.mc" id="1" lineNum="7" parent="globals/SensorTransmitv1App" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1App.mc" id="1" lineNum="8" parent="globals/SensorTransmitv1App" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1App.mc" id="2" lineNum="12" parent="globals/SensorTransmitv1App" pc="268435479" symbol="onStart"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1App.mc" id="3" lineNum="16" parent="globals/SensorTransmitv1App" pc="268435484" symbol="onStop"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1App.mc" id="4" lineNum="20" parent="globals/SensorTransmitv1App" pc="268435489" symbol="getInitialView"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1App.mc" id="4" lineNum="21" parent="globals/SensorTransmitv1App" pc="268435493" symbol="getInitialView"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1App.mc" id="5" lineNum="5" parent="globals/SensorTransmitv1App" pc="268437646" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1App.mc" id="5" lineNum="5" parent="globals/SensorTransmitv1App" pc="268437646" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1App.mc" id="6" lineNum="26" parent="globals" pc="268435561" symbol="getApp"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1App.mc" id="6" lineNum="27" parent="globals" pc="268435573" symbol="getApp"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1Delegate.mc" id="8" lineNum="6" parent="globals/SensorTransmitv1Delegate" pc="268435590" symbol="initialize"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1Delegate.mc" id="8" lineNum="7" parent="globals/SensorTransmitv1Delegate" pc="268435594" symbol="initialize"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1Delegate.mc" id="9" lineNum="10" parent="globals/SensorTransmitv1Delegate" pc="268435613" symbol="onMenu"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1Delegate.mc" id="9" lineNum="11" parent="globals/SensorTransmitv1Delegate" pc="268435617" symbol="onMenu"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1Delegate.mc" id="9" lineNum="12" parent="globals/SensorTransmitv1Delegate" pc="268435701" symbol="onMenu"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1Delegate.mc" id="10" lineNum="4" parent="globals/SensorTransmitv1Delegate" pc="268437627" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1Delegate.mc" id="10" lineNum="4" parent="globals/SensorTransmitv1Delegate" pc="268437627" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1MenuDelegate.mc" id="12" lineNum="7" parent="globals/SensorTransmitv1MenuDelegate" pc="268435705" symbol="initialize"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1MenuDelegate.mc" id="12" lineNum="8" parent="globals/SensorTransmitv1MenuDelegate" pc="268435709" symbol="initialize"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1MenuDelegate.mc" id="13" lineNum="11" parent="globals/SensorTransmitv1MenuDelegate" pc="268435728" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1MenuDelegate.mc" id="13" lineNum="12" parent="globals/SensorTransmitv1MenuDelegate" pc="268435732" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1MenuDelegate.mc" id="13" lineNum="13" parent="globals/SensorTransmitv1MenuDelegate" pc="268435743" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1MenuDelegate.mc" id="13" lineNum="14" parent="globals/SensorTransmitv1MenuDelegate" pc="268435767" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1MenuDelegate.mc" id="13" lineNum="15" parent="globals/SensorTransmitv1MenuDelegate" pc="268435778" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1MenuDelegate.mc" id="14" lineNum="5" parent="globals/SensorTransmitv1MenuDelegate" pc="268437608" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1MenuDelegate.mc" id="14" lineNum="5" parent="globals/SensorTransmitv1MenuDelegate" pc="268437608" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="16" lineNum="15" parent="globals/SensorTransmitv1View" pc="268435803" symbol="GetHeartRate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="16" lineNum="16" parent="globals/SensorTransmitv1View" pc="268435807" symbol="GetHeartRate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="16" lineNum="17" parent="globals/SensorTransmitv1View" pc="268435814" symbol="GetHeartRate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="16" lineNum="18" parent="globals/SensorTransmitv1View" pc="268435839" symbol="GetHeartRate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="16" lineNum="18" parent="globals/SensorTransmitv1View" pc="268435846" symbol="GetHeartRate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="16" lineNum="20" parent="globals/SensorTransmitv1View" pc="268435862" symbol="GetHeartRate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="16" lineNum="21" parent="globals/SensorTransmitv1View" pc="268435888" symbol="GetHeartRate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="16" lineNum="22" parent="globals/SensorTransmitv1View" pc="268435907" symbol="GetHeartRate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="16" lineNum="22" parent="globals/SensorTransmitv1View" pc="268435937" symbol="GetHeartRate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="16" lineNum="24" parent="globals/SensorTransmitv1View" pc="268435953" symbol="GetHeartRate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="17" lineNum="26" parent="globals/SensorTransmitv1View" pc="268435957" symbol="initialize"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="17" lineNum="27" parent="globals/SensorTransmitv1View" pc="268435961" symbol="initialize"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="18" lineNum="31" parent="globals/SensorTransmitv1View" pc="268435980" symbol="onLayout"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="18" lineNum="32" parent="globals/SensorTransmitv1View" pc="268435984" symbol="onLayout"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="19" lineNum="38" parent="globals/SensorTransmitv1View" pc="268436022" symbol="onShow"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="42" parent="globals/SensorTransmitv1View" pc="268436027" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="45" parent="globals/SensorTransmitv1View" pc="268436031" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="46" parent="globals/SensorTransmitv1View" pc="268436057" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="49" parent="globals/SensorTransmitv1View" pc="268436072" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="50" parent="globals/SensorTransmitv1View" pc="268436091" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="51" parent="globals/SensorTransmitv1View" pc="268436149" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="56" parent="globals/SensorTransmitv1View" pc="268436207" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="59" parent="globals/SensorTransmitv1View" pc="268436227" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="61" parent="globals/SensorTransmitv1View" pc="268436241" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="62" parent="globals/SensorTransmitv1View" pc="268436277" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="64" parent="globals/SensorTransmitv1View" pc="268436289" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="65" parent="globals/SensorTransmitv1View" pc="268436325" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="68" parent="globals/SensorTransmitv1View" pc="268436403" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="69" parent="globals/SensorTransmitv1View" pc="268436439" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="72" parent="globals/SensorTransmitv1View" pc="268436517" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="73" parent="globals/SensorTransmitv1View" pc="268436553" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="76" parent="globals/SensorTransmitv1View" pc="268436628" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="77" parent="globals/SensorTransmitv1View" pc="268436636" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="78" parent="globals/SensorTransmitv1View" pc="268436650" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="79" parent="globals/SensorTransmitv1View" pc="268436686" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="85" parent="globals/SensorTransmitv1View" pc="268436764" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="86" parent="globals/SensorTransmitv1View" pc="268436800" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="89" parent="globals/SensorTransmitv1View" pc="268436878" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="90" parent="globals/SensorTransmitv1View" pc="268436914" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="93" parent="globals/SensorTransmitv1View" pc="268436992" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="20" lineNum="94" parent="globals/SensorTransmitv1View" pc="268437028" symbol="onUpdate"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="21" lineNum="105" parent="globals/SensorTransmitv1View" pc="268437104" symbol="onHide"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="22" lineNum="9" parent="globals/SensorTransmitv1View" pc="268437589" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\raymo\\OneDrive\\Documents\\Visual Studio Code Projects\\SensorTransmitv1\\source\\SensorTransmitv1View.mc" id="22" lineNum="9" parent="globals/SensorTransmitv1View" pc="268437589" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="24" lineNum="2" parent="globals/Rez/Drawables" pc="268437689" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="25" lineNum="7" parent="globals/Rez/Fonts" pc="268437710" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="26" lineNum="9" parent="globals/Rez/JsonData" pc="268437712" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="27" lineNum="18" parent="globals/Rez/Layouts" pc="268437109" symbol="MainLayout"/>
+<entry filename="Rez" id="27" lineNum="20" parent="globals/Rez/Layouts" pc="268437121" symbol="MainLayout"/>
+<entry filename="Rez" id="27" lineNum="21" parent="globals/Rez/Layouts" pc="268437273" symbol="MainLayout"/>
+<entry filename="Rez" id="27" lineNum="22" parent="globals/Rez/Layouts" pc="268437385" symbol="MainLayout"/>
+<entry filename="Rez" id="27" lineNum="24" parent="globals/Rez/Layouts" pc="268437425" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="11" parent="globals/Rez/Layouts" pc="268437711" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="29" lineNum="38" parent="globals/Rez/Menus/MainMenu" pc="268437453" symbol="initialize"/>
+<entry filename="Rez" id="29" lineNum="39" parent="globals/Rez/Menus/MainMenu" pc="268437457" symbol="initialize"/>
+<entry filename="Rez" id="29" lineNum="40" parent="globals/Rez/Menus/MainMenu" pc="268437475" symbol="initialize"/>
+<entry filename="Rez" id="29" lineNum="41" parent="globals/Rez/Menus/MainMenu" pc="268437531" symbol="initialize"/>
+<entry filename="Rez" id="30" lineNum="36" parent="globals/Rez/Menus/MainMenu" pc="268437691" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="30" lineNum="36" parent="globals/Rez/Menus/MainMenu" pc="268437691" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="31" lineNum="29" parent="globals/Rez/Menus" pc="268437690" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="32" lineNum="47" parent="globals/Rez/Strings" pc="268437713" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="33" lineNum="1" parent="globals/Rez" pc="268437665" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="33" lineNum="1" parent="globals/Rez" pc="268437665" symbol="&lt;init&gt;"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8389346" symbol="text"/>
+<entry id="9" object="true" symbol="SensorTransmitv1App"/>
+<entry id="10" object="true" symbol="SensorTransmitv1Delegate"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry id="20" method="true" symbol="MainLayout"/>
+<entry id="14" method="true" symbol="GetHeartRate"/>
+<entry id="8389702" method="true" symbol="getHeartRateHistory"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="13" symbol="sleeping"/>
+<entry field="true" id="24" symbol="AppName"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry field="true" id="23" symbol="prompt"/>
+<entry field="true" id="17" symbol="id_monkey"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry id="26" symbol="item_2"/>
+<entry id="25" symbol="item_1"/>
+<entry id="16" module="true" symbol="Menus"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="11" object="true" symbol="SensorTransmitv1MenuDelegate"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="19" object="true" symbol="MainMenu"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="18" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="12" object="true" symbol="SensorTransmitv1View"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="8389347" symbol="color"/>
+<entry id="15" module="true" symbol="Layouts"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="22" symbol="menu_label_2"/>
+<entry field="true" id="21" symbol="menu_label_1"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435483" name="state" stackId="1" startPc="268435479"/>
+<entry arg="true" endPc="268435488" name="state" stackId="1" startPc="268435484"/>
+<entry arg="true" endPc="268435802" name="item" stackId="1" startPc="268435728"/>
+<entry endPc="268435952" name="hrI" stackId="4" startPc="268435862"/>
+<entry endPc="268435952" name="hrs" stackId="5" startPc="268435862"/>
+<entry endPc="268435955" name="ret" stackId="2" startPc="268435807"/>
+<entry endPc="268435955" name="hr" stackId="3" startPc="268435807"/>
+<entry arg="true" endPc="268435956" name="dc" stackId="1" startPc="268435803"/>
+<entry arg="true" endPc="268436021" name="dc" stackId="1" startPc="268435980"/>
+<entry endPc="268437102" name="HRsupport" stackId="2" startPc="268436031"/>
+<entry endPc="268437102" name="ret" stackId="3" startPc="268436031"/>
+<entry endPc="268437102" name="clock_minutes" stackId="6" startPc="268436031"/>
+<entry endPc="268437102" name="clockTime" stackId="4" startPc="268436031"/>
+<entry endPc="268437102" name="clock_hours" stackId="5" startPc="268436031"/>
+<entry arg="true" endPc="268437103" name="dc" stackId="1" startPc="268436027"/>
+<entry endPc="268437451" name="rez_cmp_local_bitmap_id_monkey" stackId="3" startPc="268437121"/>
+<entry endPc="268437451" name="rez_cmp_local_text_2089486573" stackId="2" startPc="268437121"/>
+<entry arg="true" endPc="268437452" name="dc" stackId="1" startPc="268437109"/>
+</localVars>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_monkey"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_1"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_2"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="prompt"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/SensorTransmitv1View" offset="174" parentId="globals" symbolId="SensorTransmitv1View" type="class"/>
+<dataEntry label="globals/SensorTransmitv1MenuDelegate" offset="269" parentId="globals" symbolId="SensorTransmitv1MenuDelegate" type="class"/>
+<dataEntry label="globals/SensorTransmitv1Delegate" offset="324" parentId="globals" symbolId="SensorTransmitv1Delegate" type="class"/>
+<dataEntry label="globals/SensorTransmitv1App" offset="379" parentId="globals" symbolId="SensorTransmitv1App" type="class"/>
+<dataEntry label="globals/Rez" offset="450" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="529" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="576" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Menus/MainMenu" offset="615" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry label="globals/Rez/Fonts" offset="662" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="693" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="732" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="763" parentId="Rez" symbolId="Strings" type="module"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435478" name="initialize" parent="SensorTransmitv1App" startPc="268435456">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435483" name="onStart" parent="SensorTransmitv1App" startPc="268435479">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435488" name="onStop" parent="SensorTransmitv1App" startPc="268435484">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435560" name="getInitialView" parent="SensorTransmitv1App" startPc="268435489">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437664" name="&lt;init&gt;" parent="SensorTransmitv1App" startPc="268437646">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435589" name="getApp" startPc="268435561">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435612" name="initialize" parent="SensorTransmitv1Delegate" startPc="268435590">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435704" name="onMenu" parent="SensorTransmitv1Delegate" startPc="268435613">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437645" name="&lt;init&gt;" parent="SensorTransmitv1Delegate" startPc="268437627">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435727" name="initialize" parent="SensorTransmitv1MenuDelegate" startPc="268435705">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435802" name="onMenuItem" parent="SensorTransmitv1MenuDelegate" startPc="268435728">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437626" name="&lt;init&gt;" parent="SensorTransmitv1MenuDelegate" startPc="268437608">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435956" name="GetHeartRate" parent="SensorTransmitv1View" startPc="268435803">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435979" name="initialize" parent="SensorTransmitv1View" startPc="268435957">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436021" name="onLayout" parent="SensorTransmitv1View" startPc="268435980">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436026" name="onShow" parent="SensorTransmitv1View" startPc="268436022">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437103" name="onUpdate" parent="SensorTransmitv1View" startPc="268436027">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437108" name="onHide" parent="SensorTransmitv1View" startPc="268437104">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437607" name="&lt;init&gt;" parent="SensorTransmitv1View" startPc="268437589">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437689" name="&lt;init&gt;" parent="Drawables" startPc="268437689">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437710" name="&lt;init&gt;" parent="Fonts" startPc="268437710">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437712" name="&lt;init&gt;" parent="JsonData" startPc="268437712">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437452" name="MainLayout" parent="Layouts" startPc="268437109">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437711" name="&lt;init&gt;" parent="Layouts" startPc="268437711">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437587" name="initialize" parent="MainMenu" startPc="268437453">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437709" name="&lt;init&gt;" parent="MainMenu" startPc="268437691">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437690" name="&lt;init&gt;" parent="Menus" startPc="268437690">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437713" name="&lt;init&gt;" parent="Strings" startPc="268437713">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437688" name="&lt;init&gt;" parent="Rez" startPc="268437665">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
